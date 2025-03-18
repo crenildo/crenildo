@@ -10,8 +10,7 @@ Aqui você encontra o início da minha jornada, seja bem-vindo!
 
 ### 🤖 Linguagens e Tecnologias
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crenildo&theme=tokyonight&layout=compact)
-
-### 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crenildo&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crenildo&theme=tokyonight&layout=compact" alt="Top Langs" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crenildo&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
+</p>
