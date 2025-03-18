@@ -2,9 +2,10 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, sou Crenildo e vejo infinitas possibilidades para tecnologia, acredito que ela seja a base para todas as outras profissões no futuro. Irei fazer parte desta história contribuindo com todo meu conhecimento.
+Olá, sou Crenildo e vejo infinitas possibilidades para tecnologia, acredito que ela seja a base para todas as outras profissões no futuro. Irei fazer parte desta historia contribuindo com todo meu conhecimento.
+Mas não só por software, eu tenho grande interesse no hardware, além disso sempre que tenho a oportunidade de conhecer algo novo fico super empolgado.
 
-Aqui você encontra o início da minha jornada, seja bem-vindo!
+Aqui você encontra o inicio da minha jornada, seja bem-vindo.
 
 ---
 
