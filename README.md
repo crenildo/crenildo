@@ -11,6 +11,9 @@ Aqui você encontra o início da minha jornada, seja bem-vindo!
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
+  <h3>Estatísticas do GitHub</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=crenildo&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
+  
+  <h3>Linguagens Mais Usadas</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crenildo&theme=tokyonight&layout=compact" alt="Top Langs" width="40%" />
 </p>
